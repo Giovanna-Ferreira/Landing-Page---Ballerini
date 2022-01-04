@@ -9,7 +9,7 @@
 
 body {
     font-size: 100%;
-    background: linear-gradient(68.15deg, #c57d87 16.62%, #d18776 85.61%);
+    background: linear-gradient(68.15deg, #da8490 16.62%, #d6836e 85.61%);
 }
 
 .cabecalho {
@@ -39,7 +39,7 @@ body {
     align-self: flex-end;
     font-size: 15px;
     padding: 3px 15px;
-    background: #d18776;
+    background: #d6836e;
     color: #2F2325;
     box-sizing: border-box;
     border-radius: 10px;
